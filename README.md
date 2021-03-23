@@ -66,7 +66,6 @@ I learnt to align items vertically and horizontally using flexbox properties jus
 
 ## Author
 
-- Website - [Max López](https://www.your-site.com)
 - Frontend Mentor - [@maxlopzb](https://www.frontendmentor.io/profile/maxlopzb)
 - Twitter - [@maxlopzb17](https://twitter.com/maxlopzb17)
 
