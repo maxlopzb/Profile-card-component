@@ -23,12 +23,12 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./screenshot-card-component.png)
+![](screenshot-card-component.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://maxlopzb.github.io/Profile-card-component/)
+- Live Site URL [live site](https://maxlopzb.github.io/Profile-card-component/)
 
 ## My process
 
